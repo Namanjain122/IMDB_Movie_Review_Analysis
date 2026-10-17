@@ -1,9 +1,0 @@
-tensorflow==2.15.0
-pandas
-numpy
-Scikit-learn
-tensorboard
-matplotlib
-streamlit
-scikeras
-torch
