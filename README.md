@@ -1,5 +1,15 @@
 # IMDB Movie Review Analysis
 
+
+https://github.com/user-attachments/assets/c60ce0e8-9e66-4f9e-b46e-ecfb4b4648ad
+
+
+
+https://github.com/user-attachments/assets/1f1bd009-585b-4d6d-ab8d-08056e4f425b
+
+
+
+
 Live Link: https://imdbmoviereviewanalysisgit-doiaek6gdnvjdnw3yssuhk.streamlit.app/
 
 An end-to-end sentiment-analysis project using TensorFlow/Keras and a Simple
