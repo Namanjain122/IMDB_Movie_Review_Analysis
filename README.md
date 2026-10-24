@@ -1,5 +1,7 @@
 # IMDB Movie Review Analysis
 
+Live Link: https://imdbmoviereviewanalysisgit-doiaek6gdnvjdnw3yssuhk.streamlit.app/
+
 An end-to-end sentiment-analysis project using TensorFlow/Keras and a Simple
 Recurrent Neural Network (SimpleRNN). The project includes notebooks for
 exploring the IMDB dataset, training and using the model, and learning how
